@@ -1,5 +1,7 @@
 # FormulaAI — AI-Powered Excel Tool
 
+<img width="2240" height="1680" alt="poster-b-privacy-light" src="https://github.com/user-attachments/assets/999a47a1-f71f-42de-921d-98799bba92c4" />
+
 Describe what you want in plain English. AI generates and edits your spreadsheets automatically.
 
 ## Features
